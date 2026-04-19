@@ -1,0 +1,1 @@
+0 0 * * * /opt/homebrew/bin/pg_dump -U postgres -d KutuphaneDB > ~/Desktop/Veritabani_Projesi/Yedekleme_ve_Kurtarma/sql_scripts/otomatik_yedek.sql
